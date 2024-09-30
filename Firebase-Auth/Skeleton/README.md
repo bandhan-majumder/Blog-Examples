@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/bandhan-majumder/Blog-Examples/tree/main/Firebase-Auth/Skeleton
+git clone https://github.com/bandhan-majumder/Blog-Examples
 npm install
 npm run dev
 ```
